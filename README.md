@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hl-hxie
+- 👋 Hi, I’m @hl-hl-hxie
 
 ---
 
@@ -18,36 +18,36 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hxie&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxie&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hl-hxie&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hl-hxie&layout=compact&theme=radical" alt="Top Languages" height="180px" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hxie&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hl-hxie&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hxie&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hl-hxie&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 🚀 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hxie&theme=radical" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hl-hxie&theme=radical" alt="Activity Graph" />
 </p>
 
 ---
 
 ## 📫 Connect with Me
-![Followers](https://img.shields.io/github/followers/hxie?style=social)
-![Stars](https://img.shields.io/github/stars/hxie?style=social)
+![Followers](https://img.shields.io/github/followers/hl-hxie?style=social)
+![Stars](https://img.shields.io/github/stars/hl-hxie?style=social)
 
 ---
 
